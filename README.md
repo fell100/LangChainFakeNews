@@ -29,16 +29,15 @@ This project aims to detect fake news by leveraging information from reputable f
 - Provide a clear verdict (fact or fake) based on the analysis and identify supporting sources.
 
 ## Technologies Used
+- Web scraping
 - OpenAI Language Model
 - LangChain
-- Vectorized Database (Turing)
-- NLP Techniques
-- Fact-Checking Websites' APIs
+- Vectorized Database
+- NLP 
+- Fact-Checking Websites
 
 ## Future Improvements
-- Continuous model training for enhanced accuracy.
 - Integration with additional fact-checking sources.
 - User interface development for ease of interaction.
-- Real-time news monitoring and analysis.
 
 
